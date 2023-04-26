@@ -82,4 +82,12 @@ And
  
   <img src="/images/solution 1.PNG" alt="sol1 query">
 
+So now, lets check his statement in interview
 
+<code>select * from 
+	interview
+where
+	person_id = 67318;
+</code>
+
+ <img src="/images/data 6.PNG" alt="sixth query">
