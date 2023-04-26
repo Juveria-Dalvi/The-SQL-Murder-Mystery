@@ -61,3 +61,22 @@ IN
 </code>
 
  <img src="/images/data 4.PNG" alt="third query">
+
+Now, write a query according to their statements
+
+<code>select * from 
+	get_fit_now_member A
+Join
+	get_fit_now_check_in B
+ON 
+	A.id = B.membership_id
+where
+	membership_id like '48Z%'
+And
+	membership_status like 'gold';
+</code>
+
+ <img src="/images/data 5.PNG" alt="third query">
+ 
+ try and insert both names to find out culprit
+
