@@ -110,6 +110,6 @@ and
 
  <img src="/images/data 7.PNG" alt="sixth query">
  
- Now we have 3 suspects lets find out who went for SQL Symphony Concert
+ Now we have 3 suspects lets find out who went for SQL Symphony Concert but lets have their person ID
  
  
