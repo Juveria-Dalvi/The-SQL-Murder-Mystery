@@ -7,8 +7,8 @@ A crime has taken place and the detective needs your help. The detective gave yo
 Use your knowledge of the database schema and SQL commands to find out who committed the murder.
 -----------------
 Retrive data from "crime_scene_report"
-<code>
-Select * from
+
+<code>Select * from
   crime_scene_report
 where
   type = 'murder'
@@ -20,9 +20,9 @@ and
      
  <img src="/images/data 1.PNG" alt="first query">
   
-Retrive data from "Person"
-<code>
-select * from 
+Retrive data from "Person" - First Witness
+
+<code>select * from 
 	person
 where
 	address_street_name 
@@ -35,5 +35,19 @@ desc limit 1;
 
  <img src="/images/data 2.PNG" alt="second query">
 
+Retrive data from "Person" - Second Witness
+
+<code>select * from 
+	person
+where
+	address_street_name 
+like 
+	'franklin Ave'
+and 
+	name 
+like "Annabel%" 
+</code>
+
+ <img src="/images/data 3.PNG" alt="third query">
 
 
