@@ -108,8 +108,14 @@ and
 	car_make = 'Tesla'
 </code>
 
- <img src="/images/data 7.PNG" alt="sixth query">
+ <img src="/images/data 7.PNG" alt="7 query">
  
  Now we have 3 suspects lets find out who went for SQL Symphony Concert but lets have their person ID
  
- 
+<code>Select * from
+	person
+where 
+	license_id IN (202298,291182,918773)
+</code>
+
+ <img src="/images/data 8.PNG" alt="8 query">
