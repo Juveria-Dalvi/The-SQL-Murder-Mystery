@@ -91,3 +91,25 @@ where
 </code>
 
  <img src="/images/data 6.PNG" alt="sixth query">
+ 
+ Let's find the women
+ 
+ <code>select * from 
+	drivers_license
+where
+	hair_color 
+like
+	'red'
+and
+	gender = 'female'
+and
+	height between 65 and 67
+and
+	car_make = 'Tesla'
+</code>
+
+ <img src="/images/data 7.PNG" alt="sixth query">
+ 
+ Now we have 3 suspects lets find out who went for SQL Symphony Concert
+ 
+ 
