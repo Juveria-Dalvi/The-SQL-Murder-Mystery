@@ -136,3 +136,7 @@ IN (78881,90700,99716);
 </code>
 
  <img src="/images/data 9.PNG" alt="9 query">
+ 
+we are close to find out the Culprit let's check 'person' with above ID
+
+ <img src="/images/data 10.PNG" alt="10 query">
