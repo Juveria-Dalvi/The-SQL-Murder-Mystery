@@ -18,7 +18,7 @@ and
   date = 20180115;
      </code>     
      
- <img src="/images/data 1" alt="first query">
+ <img src="/images/data 1.PNG" alt="first query">
   
 
   
