@@ -119,3 +119,20 @@ where
 </code>
 
  <img src="/images/data 8.PNG" alt="8 query">
+ 
+ now that we got person IDs lets check events in "facebook_event_checkin"
+ 
+<code>select * from 
+	facebook_event_checkin
+where
+	date 
+like
+	'201712%'
+and
+	event_name like '%SQL Symphony Concert%'
+and
+	person_id
+IN (78881,90700,99716);
+</code>
+
+ <img src="/images/data 9.PNG" alt="9 query">
