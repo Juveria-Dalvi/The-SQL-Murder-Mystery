@@ -50,4 +50,14 @@ like "Annabel%"
 
  <img src="/images/data 3.PNG" alt="third query">
 
+above are 2 Witnesses Now check their "Interviews"
 
+<code>select * from 
+	interview
+where
+	person_id 
+IN 
+	(14887,  16371);
+</code>
+
+ <img src="/images/data 4.PNG" alt="third query">
