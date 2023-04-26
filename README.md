@@ -20,8 +20,20 @@ and
      
  <img src="/images/data 1.PNG" alt="first query">
   
+Retrive data from "Person"
+<code>
+select * from 
+	person
+where
+	address_street_name 
+like 
+	'northwestern %'
+order by
+	address_number
+desc limit 1; 
+</code>
 
-  
+ <img src="/images/data 2.PNG" alt="second query">
 
 
 
