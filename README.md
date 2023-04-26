@@ -142,3 +142,5 @@ we are close to find out the Culprit let's check 'person' with above ID
  <img src="/images/data 10.PNG" alt="10 query">
 
   <img src="/images/solution 2.PNG" alt="sol2 query">
+  
+ -----GAME OVER-----
