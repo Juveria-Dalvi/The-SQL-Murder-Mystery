@@ -60,7 +60,7 @@ IN
 	(14887,  16371);
 </code>
 
- <img src="/images/data 4.PNG" alt="third query">
+ <img src="/images/data 4.PNG" alt="fourth query">
 
 Now, write a query according to their statements
 
@@ -76,7 +76,10 @@ And
 	membership_status like 'gold';
 </code>
 
- <img src="/images/data 5.PNG" alt="third query">
+ <img src="/images/data 5.PNG" alt="fifth query">
  
  try and insert both names to find out culprit
+ 
+  <img src="/images/solution 1.PNG" alt="sol1 query">
+
 
