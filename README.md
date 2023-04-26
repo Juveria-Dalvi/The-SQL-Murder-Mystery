@@ -140,3 +140,5 @@ IN (78881,90700,99716);
 we are close to find out the Culprit let's check 'person' with above ID
 
  <img src="/images/data 10.PNG" alt="10 query">
+
+  <img src="/images/solution 2.PNG" alt="sol2 query">
